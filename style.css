@@ -1,0 +1,19 @@
+.parent-div {
+  width: 293px;
+  height: 340px;
+  overflow: hidden;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.FRAME-5-10 {
+  transform: rotate(0deg);
+  position: relative;
+  width: 293px;
+  height: 340px;
+  left: 0px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 1);
+}

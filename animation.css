@@ -1,0 +1,219 @@
+@keyframes animation-click--31-Frame3--31-Frame3-513-0 {
+  from {
+    font-size: 12px;
+    font-weight: 400;
+    white-space: pre-wrap;
+    letter-spacing: 0em;
+    background: rgba(0, 0, 0, 1);
+    background-clip: text;
+    -webkit-background-clip: text;
+    font-family: Inter;
+    font-style: Regular;
+    -webkit-text-fill-color: transparent;
+  }
+  to {
+    font-size: 12px;
+    font-weight: 400;
+    white-space: pre-wrap;
+    letter-spacing: 0em;
+    background: rgba(0, 0, 0, 1);
+    background-clip: text;
+    -webkit-background-clip: text;
+    font-family: Inter;
+    font-style: Regular;
+    -webkit-text-fill-color: transparent;
+  }
+}
+.class-click--31-Frame3--31-Frame3-513-0 {
+  animation: animation-click--31-Frame3--31-Frame3-513-0 0.001s ease-out 0s
+    forwards;
+}
+@keyframes animation-click--31-Frame3--31-Frame3-513 {
+  from {
+    transform: rotate(0deg);
+    top: 50px;
+    left: 56px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 1;
+    width: 60px;
+    height: 15px;
+    border-radius: 0px;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 50px;
+    left: 56px;
+    width: 60px;
+    height: 15px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    border-radius: 0px;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click--31-Frame3--31-Frame3-513 {
+  animation: animation-click--31-Frame3--31-Frame3-513 0.001s ease-out 0s normal
+    forwards;
+}
+@keyframes animation-click--31-Frame3-Frame3-513 {
+  from {
+    transform: rotate(0deg);
+    top: 0px;
+    left: 0px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 3;
+    width: 293px;
+    height: 340px;
+    border-radius: 0px;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 0px;
+    left: 0px;
+    width: 293px;
+    height: 340px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 4;
+    border-radius: 0px;
+    background: rgba(255, 255, 255, 1);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click--31-Frame3-Frame3-513 {
+  animation: animation-click--31-Frame3-Frame3-513 0.001s ease-out 0s normal
+    forwards;
+}
+@keyframes animation-click--31-Frame3-2-31-Frame3-513-0 {
+  from {
+    font-size: 12px;
+    font-weight: 400;
+    white-space: pre-wrap;
+    letter-spacing: 0em;
+    background: rgba(0, 0, 0, 1);
+    background-clip: text;
+    -webkit-background-clip: text;
+    font-family: Inter;
+    font-style: Regular;
+    -webkit-text-fill-color: transparent;
+  }
+  to {
+    font-size: 12px;
+    font-weight: 400;
+    white-space: pre-wrap;
+    letter-spacing: 0em;
+    background: rgba(0, 0, 0, 1);
+    background-clip: text;
+    -webkit-background-clip: text;
+    font-family: Inter;
+    font-style: Regular;
+    -webkit-text-fill-color: transparent;
+  }
+}
+.class-click--31-Frame3-2-31-Frame3-513-0 {
+  animation: animation-click--31-Frame3-2-31-Frame3-513-0 0.001s ease-out 0s
+    forwards;
+}
+@keyframes animation-click--31-Frame3-2-31-Frame3-513 {
+  from {
+    transform: rotate(0deg);
+    top: 148px;
+    left: 179px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    width: 68px;
+    height: 15px;
+    border-radius: 0px;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 148px;
+    left: 179px;
+    width: 68px;
+    height: 15px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 1;
+    border-radius: 0px;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click--31-Frame3-2-31-Frame3-513 {
+  animation: animation-click--31-Frame3-2-31-Frame3-513 0.001s ease-out 0s
+    normal forwards;
+}
+@keyframes animation-click--31-Frame3-1-31-Frame3-513-0 {
+  from {
+    font-size: 12px;
+    font-weight: 400;
+    white-space: pre-wrap;
+    letter-spacing: 0em;
+    background: rgba(0, 0, 0, 1);
+    background-clip: text;
+    -webkit-background-clip: text;
+    font-family: Inter;
+    font-style: Regular;
+    -webkit-text-fill-color: transparent;
+  }
+  to {
+    font-size: 12px;
+    font-weight: 400;
+    white-space: pre-wrap;
+    letter-spacing: 0em;
+    background: rgba(0, 0, 0, 1);
+    background-clip: text;
+    -webkit-background-clip: text;
+    font-family: Inter;
+    font-style: Regular;
+    -webkit-text-fill-color: transparent;
+  }
+}
+.class-click--31-Frame3-1-31-Frame3-513-0 {
+  animation: animation-click--31-Frame3-1-31-Frame3-513-0 0.001s ease-out 0s
+    forwards;
+}
+@keyframes animation-click--31-Frame3-1-31-Frame3-513 {
+  from {
+    transform: rotate(0deg);
+    top: 148px;
+    left: 53px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    width: 66px;
+    height: 15px;
+    border-radius: 0px;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 148px;
+    left: 53px;
+    width: 66px;
+    height: 15px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 2;
+    border-radius: 0px;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click--31-Frame3-1-31-Frame3-513 {
+  animation: animation-click--31-Frame3-1-31-Frame3-513 0.001s ease-out 0s
+    normal forwards;
+}
