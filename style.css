@@ -1,19 +1,73 @@
 .parent-div {
-  width: 293px;
-  height: 340px;
+  width: 430px;
+  height: 932px;
   overflow: hidden;
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
 }
-.FRAME-5-10 {
+.FRAME-15-119 {
   transform: rotate(0deg);
   position: relative;
-  width: 293px;
-  height: 340px;
+  width: 430px;
+  height: 932px;
   left: 0px;
   top: 0px;
   opacity: 1;
   overflow: hidden;
   background: rgba(255, 255, 255, 1);
+}
+.RECTANGLE-37-1558 {
+  position: absolute;
+  left: 170px;
+  top: 597px;
+  transform: rotate(0deg);
+  transform-origin: center !important;
+  background: rgba(181, 246, 215, 1);
+
+  border-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+  width: 111px;
+  height: 52px;
+  opacity: 0;
+}
+.RECTANGLE-37-1564 {
+  position: absolute;
+  left: 56px;
+  top: 629px;
+  transform: rotate(0deg);
+  transform-origin: center !important;
+  background: rgba(170, 172, 174, 1);
+
+  border-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+  width: 111px;
+  height: 52px;
+  opacity: 0;
+}
+.RECTANGLE-15-120 {
+  position: absolute;
+  left: 276px;
+  top: 596px;
+  transform: rotate(0deg);
+  transform-origin: center !important;
+  background: rgba(237, 66, 66, 1);
+
+  border-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+  width: 105px;
+  height: 51px;
+  opacity: 1;
 }
